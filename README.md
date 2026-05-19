@@ -2,7 +2,7 @@
 <!--                    ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20[Your%20Name]%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20Student%20%7C%20Full-Stack%20Dev%20%7C%20Mobile%20Dev&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20[Hansana%20Gayathmika]%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20Student%20%7C%20Full-Stack%20Dev%20%7C%20Mobile%20Dev&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                            -->
@@ -50,12 +50,12 @@
 - 🌍 &nbsp; Based in **Sri Lanka 🇱🇰**
 - 💡 &nbsp; I love using **Software as a solution** for every `Problem`
 - 🌱 &nbsp; Currently learning **Machine Learning** and **Deep Learning**
-- 🔭 &nbsp; Working on **Data-Driven Web & Mobile Apps**
+- 🔭 &nbsp; Working on **Data-Driven Web , Mobile Apps & AI/ML Solutions**
 - 💬 &nbsp; Ask me about `Python` `React` `SQL` `MERN Stack`
-- 📫 &nbsp; Reach me at **your.email@gmail.com**
+- 📫 &nbsp; Reach me at **hansanagayathmika2003@gmail.com**
 - ⚡ &nbsp; Fun fact: *I turn coffee into clean datasets* ☕📊
 - 🤝 &nbsp; Open to **collaborations** and **new opportunities**
-- 🌐 &nbsp; Visit **[MY PORTFOLIO](https://your-portfolio.com)**
+
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -211,53 +211,14 @@ Then replace the snake `src` URLs with:
 
 </div>
 
----
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TROPHIES                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🏆 &nbsp; GitHub Trophies</h2>
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" width="95%"/>
-
-</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ACTIVITY GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📈 &nbsp; Contribution Graph</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=6AD3F7&line=0e75b6&point=6AD3F7&area=true&area_color=0e75b6&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🌟 &nbsp; Featured Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7"/>
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7"/>
-</a>
-
-</div>
 
 ---
 
@@ -287,21 +248,12 @@ Then replace the snake `src` URLs with:
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://kaggle.com/YOUR_KAGGLE">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-&nbsp;
+
 <a href="mailto:your.email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+
 
 </div>
 
@@ -314,5 +266,5 @@ Then replace the snake `src` URLs with:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
-  <sub>⭐ <i>"Data tells stories. I help them speak." — <b>YOUR_USERNAME</b></i> ⭐</sub>
+  <sub>⭐ <i>"Data tells stories. I help them speak." — <b>YHansana Gayathmika</b></i> ⭐</sub>
 </div>

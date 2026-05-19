@@ -266,5 +266,5 @@ Then replace the snake `src` URLs with:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
-  <sub>⭐ <i>"Data tells stories. I help them speak." — <b>YHansana Gayathmika</b></i> ⭐</sub>
+  <sub>⭐ <i>"Data tells stories. I help them speak." — <b>Hansana Gayathmika</b></i> ⭐</sub>
 </div>
